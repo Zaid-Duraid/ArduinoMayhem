@@ -1,4 +1,4 @@
-#Arduino Mayhem
+# Arduino Mayhem
 
 Developed by Zaid Duraid and Ean Wheeler for Engineering 1020: Foundations of Programming, Winter 2023.
 
